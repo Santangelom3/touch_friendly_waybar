@@ -22,4 +22,8 @@
 ## Credits
 
 - This configuration is inspired by [Alexays's waybar](https://github.com/Alexays/Waybar)
+
+
+
+
 Tennis
