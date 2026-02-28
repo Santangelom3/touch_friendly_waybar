@@ -21,4 +21,4 @@
 
 ## Credits
 
-This configuration is inspired by [waybar](https://github.com/Alexays/Waybar)
+This configuration is inspired by [Alexays's waybar](https://github.com/Alexays/Waybar)
