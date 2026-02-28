@@ -1,0 +1,174 @@
+* {
+  min-height: 0;
+  min-width: 0;
+  font-family: Lexend, "JetBrainsMono NFP";
+  font-size: 16px;
+  font-weight: 600;
+}
+
+window#waybar {
+  transition-property: background-color;
+  transition-duration: 0.5s;
+  /* background-color: #1e1e2e; */
+  /* background-color: #181825; */
+  background-color: rgba(26, 11, 11, 0);
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #E3493D;
+  /* background-color: rgba(24, 24, 37, 0.6); */
+}
+
+#workspaces button {
+  padding: 0.4rem 1.2rem;
+  margin: 0.4rem 0.25rem;
+  border-radius: 6px;
+  /* background-color: #181825; */
+  background-color: rgba(26,11,11,0.8);
+  color: #e3493d;
+  border-style: hidden;
+  transition: background-color 0.2s ease-out, padding 0.2s ease-out, font-size 0.2s ease-out;
+}
+
+#workspaces button.active {
+  padding: 0.4rem 1.8rem;
+  font-size: 2rem;
+  background-color: rgba(26,11,11,0.8);
+  color: #E3493D;
+}
+
+#workspaces button.urgent {
+  background-color: #1e1e2e;
+  color: #f38ba8;
+}
+
+#clock,
+#custom-colder,
+#custom-warmer,
+#custom-killactive,
+#pulseaudio,
+#custom-logo,
+#custom-screenshot,
+#custom-power,
+#custom-spotify,
+#custom-notification,
+#cpu,
+#tray,
+#battery,
+#memory,
+#window,
+#mpris {
+  padding: 0.4rem 0.8rem;
+  margin: 0.4rem 0.25rem;
+  border-radius: 6px;
+  /* background-color: #181825; */
+  background-color: rgba(26,11,11, 0.8);
+  color: #E3493D;
+}
+#mpris.active{
+  background-color: rgba(26,11,11,1);
+}
+
+#backlight-slider, #pulseaudio-slider {
+  min-width: 30px;
+  min-height: 30px;
+  margin-right: 15px;
+  transition: min-width 0.15s ease-out;
+}
+#backlight-slider trough, #pulseaudio-slider trough {
+  min-height: 20px;
+  min-width: 30px;
+  border-radius: 10px;
+  background-color: rgba(0,0,0, 0);
+  transition: min-width 0.15s ease-out;
+}
+#backlight-slider trough:hover, #backlight-slider:hover {
+  min-width: 400px;
+} 
+#backlight-slider highlight, #pulseaudio-slider highlight {
+  border-radius: 10px;
+  padding: 0.4rem 1rem;
+  margin: 0.4rem 0.25rem;
+  min-height: 30px;
+  min-width: 25px;
+  background-color: rgba(26,11,11,0.8);
+}
+
+#backlight-slider highlight:hover, #backliht-slider highlight.active{
+  min-width: 2px;
+}
+
+#backlight-slider slider, #pulseaudio-slider slider {
+  background-color: rgba(0,0,0,0);
+  border: none;
+  box-shadow: none;
+} 
+#mpris.playing {
+  color: #E3493D;
+}
+
+#mpris.paused {
+  color: #E3493D;
+}
+
+#custom-killactive {
+  color: #E3493D;
+}
+
+#custom-sep {
+  padding: 0px;
+  color: #585b70;
+}
+
+window#waybar.empty #window {
+  background-color: transparent;
+}
+
+#cpu {
+  color: #E3493D;
+}
+
+#memory {
+  color: #E3493D;
+}
+
+#clock {
+  color: #E3493D;
+}
+
+#clock.simpleclock {
+  color: #E3493D;
+}
+
+#window {
+  color: #E3493D;
+}
+
+#pulseaudio {
+  color: #E3493D;
+}
+
+#pulseaudio.muted {
+  color: #E3493D;
+}
+
+#custom-logo {
+  color: #E3493D;
+}
+
+#battery {
+  color: #E3493D;
+}
+
+#custom-screenshot {
+  color: #E3493D;
+  background-image: url('images/screenshot-svgrepo-com.svg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+tooltip {
+  background-color: rgba(26, 11, 11, 1);
+  border: 2px solid #e3493d;
+}
+
