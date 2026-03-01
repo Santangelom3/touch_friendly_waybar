@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+
+<svg
+   width="800"
+   height="800"
+   viewBox="-2.4 -2.4 28.8 28.8"
+   version="1.1"
+   fill="#e3493d"
+   stroke="#e3493d"
+   id="svg1"
+   sodipodi:docname="screenshot-svgrepo-com.svg"
+   inkscape:export-filename="screenshot-svgrepo-com.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="28.799999"
+       height="28.799999"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="SVGRepo_iconCarrier"
+     transform="matrix(0.70772834,0,0,0.70772834,3.50726,3.50726)">
+    <!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+    <title
+       id="title1">ic_fluent_screenshot_24_regular</title>
+    <desc
+       id="desc1">Created with Sketch.</desc>
+    <g
+       id="🔍-Product-Icons"
+       stroke="none"
+       stroke-width="1"
+       fill="none"
+       fill-rule="evenodd">
+      <g
+         id="ic_fluent_screenshot_24_regular"
+         fill="#e3493d"
+         fill-rule="nonzero">
+        <path
+           d="M 17.25,3 C 19.321068,3 21,4.6789322 21,6.75 v 10.5 C 21,19.321068 19.321068,21 17.25,21 H 6.75 C 4.6789322,21 3,19.321068 3,17.25 V 6.75 C 3,4.6789322 4.6789322,3 6.75,3 Z m 0,1.5 H 6.75 C 5.5073593,4.5 4.5,5.5073593 4.5,6.75 v 10.5 c 0,1.242641 1.0073593,2.25 2.25,2.25 h 10.5 c 1.242641,0 2.25,-1.007359 2.25,-2.25 V 6.75 C 19.5,5.5073593 18.492641,4.5 17.25,4.5 Z m 0,8.5 C 17.664214,13 18,13.335786 18,13.75 V 16 c 0,1.1046 -0.8954,2 -2,2 H 13.75 C 13.335786,18 13,17.664214 13,17.25 13,16.835786 13.335786,16.5 13.75,16.5 H 16 c 0.2761,0 0.5,-0.2239 0.5,-0.5 V 13.75 C 16.5,13.335786 16.835786,13 17.25,13 Z m -10.5,0 c 0.4142136,0 0.75,0.335786 0.75,0.75 V 16 c 0,0.2761 0.22386,0.5 0.5,0.5 h 2.25 C 10.664214,16.5 11,16.835786 11,17.25 11,17.664214 10.664214,18 10.25,18 H 8 C 6.89543,18 6,17.1046 6,16 V 13.75 C 6,13.335786 6.3357864,13 6.75,13 Z M 8,6 h 2.25 C 10.664214,6 11,6.3357864 11,6.75 11,7.1296958 10.717846,7.443491 10.351771,7.4931534 L 10.25,7.5 H 8 C 7.7545422,7.5 7.5503921,7.676877 7.5080557,7.910125 L 7.5,8 v 2.25 C 7.5,10.664214 7.1642136,11 6.75,11 6.3703042,11 6.056509,10.717846 6.0068466,10.351771 L 6,10.25 V 8 C 6,6.9456377 6.8158773,6.0818348 7.8507376,6.0054857 L 8,6 h 2.25 z m 8,0 c 1.1046,0 2,0.89543 2,2 v 2.25 C 18,10.664214 17.664214,11 17.25,11 16.835786,11 16.5,10.664214 16.5,10.25 V 8 C 16.5,7.72386 16.2761,7.5 16,7.5 H 13.75 C 13.335786,7.5 13,7.1642136 13,6.75 13,6.3357864 13.335786,6 13.75,6 Z"
+           id="🎨-Color" />
+      </g>
+    </g>
+  </g>
+</svg>
